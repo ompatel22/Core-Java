@@ -1,2 +1,2 @@
 # Core-Java
-Core Java concepts implementation
+Core Java concepts implementation.
